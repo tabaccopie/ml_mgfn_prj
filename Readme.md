@@ -21,6 +21,6 @@ ML: sklearn, dask, pandas, numpy, gbm
 
 python run.py
 
-После запуска скрипт создаст файл answers_test.csv с предсказанием целевой переменной
+После запуска скрипт создаст файл answers_test.csv с предсказаниями целевой переменной
 
 
